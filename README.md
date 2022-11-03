@@ -2,7 +2,7 @@
 
 ### Link para vizualização
 
-<a href="https://bucolic-empanada-340d43.netlify.app" target="_blank">Home barbearia</a>
+<a href="https://bucolic-empanada-340d43.netlify.app" target="_blank">Pagina</a>
 
 ### Contatos
 
